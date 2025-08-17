@@ -1,0 +1,26 @@
+{
+    "expenses":[
+        {
+            "id":"1",
+            "description":"Monthly Salary",
+            "amount":3500,
+            "category":"Income",
+            "date":"2025-07-01T10:00:00.000Z"
+        },
+        {
+            "id":"2",
+            "description":"Grocery Shopping",
+            "amount":125.50,
+            "category":"Food",
+            "date":"2025-07-01T14:00:00.000Z"
+        },
+        {
+            "id":"3",
+            "description":"Gas Bill",
+            "amount":75.00,
+            "category":"Utilities",
+            "date":"2025-07-03T09:00:00.000Z"
+        }
+
+    ]
+}

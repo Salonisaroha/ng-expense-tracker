@@ -1,9 +1,10 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { ExpenseTrackerComponent } from './expense-tracker/expense-tracker';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  imports: [ExpenseTrackerComponent],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
